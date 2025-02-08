@@ -25,4 +25,16 @@ The key tables include:
   ![](aw_d1.png)
 
 - Products
+- Product category
+- Product subcategory
    ![](aw_d2.png)
+
+- Calender
+- Territories
+- Returns
+   ![](aw_d3.png)
+
+- Sales
+  ![](aw_d4.png)
+
+- 
