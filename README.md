@@ -21,20 +21,19 @@ The objectives of this project are:
 
 The database consists of multiple tables, each serving a distinct function. 
 The key tables include:
-- Customers
+- Customers: Stores customer-related details
   ![](aw_d1.png)
 
-- Products
-- Product category
-- Product subcategory
+- Products: Maintains product details
+- Product category and subcategory : Categorizes products into different groups
    ![](aw_d2.png)
 
-- Calender
-- Territories
-- Returns
+- Calender: Stores time-related data for analysis
+- Territories: Stores geographical information
+- Returns: Tracks product returns
    ![](aw_d3.png)
 
-- Sales
+- Sales: Records transactions and order details
   ![](aw_d4.png)
 
-- 
+## Constraints
