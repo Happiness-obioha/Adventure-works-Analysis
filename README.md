@@ -23,3 +23,6 @@ The database consists of multiple tables, each serving a distinct function.
 The key tables include:
 - Customers
   ![](aw_d1.png)
+
+- Products
+   ![](aw_d2.png)
