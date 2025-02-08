@@ -37,3 +37,18 @@ The key tables include:
   ![](aw_d4.png)
 
 ## Constraints
+They are used to limit what type of data can go into any given table. This way, we can ensure the reliability and accuracy of the data present in the table. 
+Thus, if there occurs any violation between the data action and the constraint, the action is aborted as a result.
+![](aw_d5.png)
+
+##  Table Relationships
+
+- customers is linked to sales via customer_key
+
+- products is linked to sales and returns via product_key
+
+- productsubcategory is linked to productcategory via productcategory_key
+
+- sales and returns are linked to territories via territory_key
+
+- sales is linked to calendar via order_date
