@@ -52,3 +52,5 @@ Thus, if there occurs any violation between the data action and the constraint, 
 - sales and returns are linked to territories via territory_key
 
 - sales is linked to calendar via order_date
+  ![](aw_tr.png)
+  
